@@ -1,0 +1,9 @@
+This code for alhaitham Tawalbeh
+-It's a maven project 
+-you can use swagger-ui to access all of the webservices using this url 
+http://localhost:8080/swagger-ui.html
+
+- you have a samples from the unit test scenarios 
+- please noticed that this code is writted within less than 2 day because i have a personal issues 
+
+Thanks 
