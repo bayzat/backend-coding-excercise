@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.bayzat.RestTask</groupId>
-	<artifactId>bayzat-Rest-Task</artifactId>
+	<groupId>backend-coding-excercise-Tawalbeh</groupId>
+	<artifactId>backend-coding-excercise-Tawalbeh</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>bayzat-Rest-Task</name>
+	<name>backend-coding-excercise-Tawalbeh</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
